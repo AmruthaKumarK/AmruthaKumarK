@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Amrutha</h1>
-<h3 align="center">A Software developer who loves getting lost in code and finding creative ways to bring ideas to life. I’m all about solving problems, building cool things, and having fun along the way! <br> Whether I’m diving into algorithms, developing robust backend systems, or collaborating on big ideas, my goal is simple—blend logic with creativity to build technology that’s not just smart, but genuinely impactful. I focus on creating reliable, efficient solutions that are built to perform and deliver real results.</h3>
+<h3 align="center">I’m a Software Developer with a passion for solving problems and creating impactful solutions. Whether it’s building full-stack applications, diving into machine learning, or exploring new areas like app development, I’m always up for the challenge of turning ideas into reality.
+
+I believe in the power of technology to drive innovation, and I’m constantly learning and experimenting with new tools and techniques to keep pushing the boundaries of what’s possible. If you're passionate about tech and looking for creative collaborations or just want to chat about the latest trends, feel free to reach out!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthakumark&label=Profile%20views&color=0e75b6&style=flat" alt="amruthakumark" /> </p>
 
