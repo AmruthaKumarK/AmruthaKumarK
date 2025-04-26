@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amrutha</h1>
-<h3 align="center">I’m a Software Developer with a passion for solving problems and creating impactful solutions. Whether it’s building full-stack applications, diving into machine learning, or exploring new areas like app development, I’m always up for the challenge of turning ideas into reality.
+<h3 align="center">I’m a Software Developer with a passion for solving problems and creating impactful solutions. Whether it’s building full-stack applications, diving into machine learning, or exploring new areas in Tech, I’m always up for the challenge of turning ideas into reality.
 
 I believe in the power of technology to drive innovation, and I’m constantly learning and experimenting with new tools and techniques to keep pushing the boundaries of what’s possible. If you're passionate about tech and looking for creative collaborations or just want to chat about the latest trends, feel free to reach out!.</h3>
 
